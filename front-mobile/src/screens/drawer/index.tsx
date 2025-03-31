@@ -7,6 +7,8 @@ import React from "react";
 import Home from "./home";
 // import Videos from "./videos";
 import Sobre from "./sobre";
+import Newpage from "./nova";
+import Aulat from "./aulat";
 
 export default function App() {
   const Drawer = createDrawerNavigator();
@@ -54,9 +56,23 @@ export default function App() {
         })} */}
         {tela({
           nome: "Sobre o Curso",
-          icone: "home-outline",
+          icone: "",
           titulo: "Sobre o Curso",
           componente: Sobre,
+        })}
+
+{tela({
+          nome: "Nova",
+          icone: "",
+          titulo: "Aula 1",
+          componente: Newpage,
+        })}
+
+{tela({
+          nome: "Aula 2",
+          icone: "",
+          titulo: "Aula 2",
+          componente: Aulat,
         })}
       </Drawer.Navigator>
     </NavigationContainer>
