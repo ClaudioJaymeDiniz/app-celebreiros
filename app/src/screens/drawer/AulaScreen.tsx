@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity } from 'react-native';
 import YouTube from 'react-native-youtube-iframe';
 import { useRoute } from '@react-navigation/native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 interface Aula {
   id: number;
@@ -34,7 +35,8 @@ export default function AulaScreen() {
     try {
       const response = await fetch(`http://192.168.18.3:8000/api/aulas/${aulaId}`, {
         headers: {
-          'Authorization': `Bearer ${await AsyncStorage.getItem('@Celebreiros:token')}`
+          'Authorization': `Bearer ${await AsyncStorage.getItem('@Celebreiros:token')}`,
+          'Content-Type': 'application/json'
         }
       });
 
