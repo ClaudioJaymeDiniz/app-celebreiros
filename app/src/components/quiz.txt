@@ -1,6 +1,7 @@
+aula 1
+
 1. Questão
 Por que é importante planejar antes de criar um vídeo?
-
 
 Para economizar tempo e recursos
 
@@ -9,6 +10,8 @@ Para garantir qualidade de som e imagem
 Para que o vídeo tenha um propósito claro
 
 Todas as anteriores
+
+resposta: Todas as anteriores
 
 2. Questão
 Qual elemento é mais importante para gerar interesse no público?
@@ -22,9 +25,10 @@ Efeitos visuais elaborados
 
 Uso de equipamentos caros
 
+resposta : Uma história envolvente
+
 3. Questão
 O que é storytelling?
-
 
 A técnica de edição de vídeos longos
 
@@ -34,9 +38,10 @@ Um tipo de equipamento de filmagem
 
 Uma ferramenta para ajustar o áudio de vídeos
 
+resposta : A arte de contar histórias para envolver o público
+
 4. Questão
 Qual destes NÃO é um benefício de cativar o público?
-
 
 Aumentar a audiência
 
@@ -45,6 +50,8 @@ Tornar seu conteúdo mais memorável
 Tornar o vídeo mais curto
 
 Criar uma conexão emocional
+
+resposta : Tornar o vídeo mais curto
 
 5. Questão
 Qual é o principal objetivo ao cativar e incentivar na criação de vídeos?
@@ -58,13 +65,15 @@ Inspirar criatividade e gerar conexão com o público
 
 Escolher o melhor equipamento para filmagem
 
+resposta : Inspirar criatividade e gerar conexão com o público
+
 
 
 ----------------------------------------------------
-1. Question 2
+Aula 2
+
+1. Questão
 Qual equipamento é suficiente para começar a criar vídeos?
-
-
 
 Um celular com boa câmera
 
@@ -74,9 +83,10 @@ Uma câmera DSLR de última geração
 
 Uma filmadora de cinema
 
-2. Question 3
-Por que é importante testar o equipamento antes de gravar?
+resposta : Um celular com boa câmera
 
+2. Questão
+Por que é importante testar o equipamento antes de gravar?
 
 Para garantir que a bateria esteja carregada
 
@@ -86,10 +96,11 @@ Para evitar gastar tempo durante a gravação
 
 Todas as anteriores
 
-3. Question 5
+resposta : Todas as anteriores
+
+
+3. Questão
 Qual é a importância de conhecer seu público antes de fazer um vídeo?
-
-
 
 Para escolher o equipamento certo
 
@@ -99,9 +110,10 @@ Para ajustar a duração do vídeo
 
 Para economizar tempo de produção
 
-4. Question 1
-Qual é o primeiro passo para começar a produzir seu vídeo?
+resposta : Para definir o tom e estilo mais adequados
 
+4. Questão
+Qual é o primeiro passo para começar a produzir seu vídeo?
 
 Escrever um roteiro detalhado
 
@@ -111,10 +123,10 @@ Aprender a editar vídeos
 
 Comprar uma câmera profissional
 
-5. Question 4
+resposta : Escolher o tema ou mensagem principal
+
+5. Questão
 O que é recomendado para garantir uma boa iluminação no vídeo?
-
-
 
 Usar luz natural ou fontes de luz estáveis
 
@@ -123,3 +135,5 @@ Filmar em ambientes escuros
 Usar apenas a luz do equipamento
 
 Evitar iluminação direta
+
+resposta : Usar luz natural ou fontes de luz estáveis
